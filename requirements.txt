@@ -1,0 +1,15 @@
+#DeepPytorch3d
+kornia==0.5.5
+dominate==2.6.0
+trimesh==3.9.20
+opencv-python==4.6.0.66
+scipy==1.4.1
+scikit-image==0.16.2
+# #PRNET
+tensorflow==2.3.0
+tf-slim==1.1.0
+#Addition
+mediapipe==0.8.11
+protobuf==3.9.2 #same version with requirement
+cached_property
+aiohttp
