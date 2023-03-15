@@ -1,0 +1,1 @@
+Download weights folder (BFM, Data, checkpoints, dlib_model) from https://drive.google.com/drive/folders/1RuXGkUb_B7Qpr-wxLh7ooOSvNvpdzy3B?usp=sharing
